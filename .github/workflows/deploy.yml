@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: dle-maple  # ⚠️ 进入 Vue 项目目录
+        working-directory: idle-maple  # ⚠️ 进入 Vue 项目目录
 
       - name: Build Vue project
         run: npm run build

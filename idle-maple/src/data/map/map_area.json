@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "from_world": 1,
+            "reflect_map": "10000,20000,1000000,1010000,1020000,2000000,2000100",
+            "name_chs": "彩虹岛"
+        },
+        {
+            "id": 10,
+            "from_world": 1,
+            "reflect_map": "100000000,101000000,102000000,103000000,104000000,104020000",
+            "name_chs": "金银岛"
+        },
+        {
+            "id": 20,
+            "from_world": 1,
+            "name_chs": "冰封雪域"
+        },
+        {
+            "id": 30,
+            "from_world": 1,
+            "name_chs": "时间停止之湖"
+        },
+        {
+            "id": 40,
+            "from_world": 1,
+            "name_chs": "水下世界"
+        },
+        {
+            "id": 50,
+            "from_world": 1,
+            "name_chs": "米纳尔森林"
+        },
+        {
+            "id": 60,
+            "from_world": 1,
+            "name_chs": "武陵"
+        },
+        {
+            "id": 70,
+            "from_world": 1,
+            "name_chs": "尼哈沙漠"
+        },
+        {
+            "id": 80,
+            "from_world": 1,
+            "name_chs": "时间神殿"
+        },
+        {
+            "id": 90,
+            "from_world": 1,
+            "name_chs": "圣地"
+        },
+        {
+            "id": 100,
+            "from_world": 1,
+            "name_chs": "里恩"
+        },
+        {
+            "id": 110,
+            "from_world": 1,
+            "name_chs": "埃德尔斯坦"
+        },
+        {
+            "id": 180,
+            "from_world": 1,
+            "name_chs": "克里蒂亚斯"
+        },
+        {
+            "id": 178,
+            "from_world": 1,
+            "name_chs": "江湖"
+        }
+    ]
+}

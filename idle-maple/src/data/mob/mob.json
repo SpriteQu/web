@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 100000,
+            "name_chs": "蜗牛",
+            "level": 1,
+            "attr": "max_hp|15,atk_physics|2,reduce_physics|0.1,reduce_magic|0.1,speed|3",
+            "level_overlay_limit": "0,1",
+            "loots": "1002067|0.0002,2000000|0.06,2010009|0.002,4000019|0.06,100|3,101|2"
+        },
+        {
+            "id": 100001,
+            "name_chs": "蓝蜗牛",
+            "level": 2,
+            "attr": "max_hp|20,atk_physics|3,reduce_physics|0.1,reduce_magic|0.1,speed|3",
+            "level_overlay_limit": "0,2",
+            "loots": "100|4,101|2"
+        },
+        {
+            "id": 100002,
+            "name_chs": "红蜗牛",
+            "level": 4,
+            "attr": "max_hp|35,atk_physics|10,reduce_physics|0.1,reduce_magic|0.1,speed|3",
+            "level_overlay_limit": "0,2",
+            "loots": "100|6,101|2"
+        },
+        {
+            "id": 100003,
+            "name_chs": "蘑菇仔",
+            "level": 2,
+            "attr": "max_hp|20,atk_physics|3,reduce_physics|0.1,reduce_magic|0.1,speed|3",
+            "level_overlay_limit": "0,2",
+            "loots": "100|4,101|2"
+        }
+    ]
+}

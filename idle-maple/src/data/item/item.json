@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": 2000000,
+            "name_chs": "红色药水",
+            "type": 1,
+            "attr": "hp|50",
+            "available": 1,
+            "trade": 1,
+            "description": "红色药草研磨作成的药水.\\n恢复血量约50."
+        },
+        {
+            "id": 2010009,
+            "name_chs": "青苹果",
+            "type": 1,
+            "attr": "mp|30",
+            "available": 1,
+            "trade": 1,
+            "description": "酸酸甜甜的青苹果.\\n恢复魔量约30."
+        },
+        {
+            "id": 4000019,
+            "name_chs": "绿色蜗牛壳",
+            "type": 2,
+            "available": 0,
+            "trade": 1,
+            "description": "绿色蜗牛的壳."
+        },
+        {
+            "id": 100,
+            "name_chs": "经验",
+            "type": 50,
+            "available": 0,
+            "trade": 1
+        },
+        {
+            "id": 101,
+            "name_chs": "金币",
+            "type": 50,
+            "available": 0,
+            "trade": 1
+        },
+        {
+            "id": 1001,
+            "name_chs": "枯叶",
+            "type": 3,
+            "available": 0,
+            "trade": 1,
+            "description": "已经失去了生命力."
+        },
+        {
+            "id": 1002,
+            "name_chs": "枫叶",
+            "type": 3,
+            "available": 0,
+            "trade": 1,
+            "description": "隐约散发着神圣的气息."
+        },
+        {
+            "id": 1003,
+            "name_chs": "橡木",
+            "type": 3,
+            "available": 0,
+            "trade": 1,
+            "description": "非常泛用的木材，村里的床、桌子、椅子甚至房子，都是它."
+        }
+    ]
+}

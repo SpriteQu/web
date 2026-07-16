@@ -1,0 +1,270 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "hat",
+            "name_chs": "帽子",
+            "position": "3,1",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 2,
+            "name_en": "eye",
+            "name_chs": "眼饰",
+            "position": "3,2",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 3,
+            "name_en": "face",
+            "name_chs": "脸部",
+            "position": "3,3",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 4,
+            "name_en": "longcoat",
+            "name_chs": "套服",
+            "position": "3,4",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 5,
+            "name_en": "coat",
+            "name_chs": "上衣",
+            "position": "3,4",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 6,
+            "name_en": "pants",
+            "name_chs": "下衣",
+            "position": "3,5",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 7,
+            "name_en": "shoulder",
+            "name_chs": "肩部",
+            "position": "4,4",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 8,
+            "name_en": "belt",
+            "name_chs": "腰带",
+            "position": "2,5",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 9,
+            "name_en": "cape",
+            "name_chs": "披风",
+            "position": "5,5",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 10,
+            "name_en": "glove",
+            "name_chs": "手套",
+            "position": "4,5",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 11,
+            "name_en": "weapon",
+            "name_chs": "武器",
+            "position": "2,4",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 12,
+            "name_en": "shield",
+            "name_chs": "盾牌（副手）",
+            "position": "5,4",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 13,
+            "name_en": "shoes",
+            "name_chs": "鞋子",
+            "position": "3,6",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 14,
+            "name_en": "ear",
+            "name_chs": "耳环",
+            "position": "2,1",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 15,
+            "name_en": "pendant",
+            "name_chs": "吊坠",
+            "position": "2,2|2,3",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 16,
+            "name_en": "ring",
+            "name_chs": "戒指",
+            "position": "1,1|1,2",
+            "cash": 0,
+            "enable": 1
+        },
+        {
+            "id": 17,
+            "name_en": "medal",
+            "name_chs": "勋章",
+            "position": "5,3",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 18,
+            "name_en": "badge",
+            "name_chs": "徽章",
+            "position": "5,2",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 19,
+            "name_en": "emblem",
+            "name_chs": "纹章",
+            "position": "5,1",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 20,
+            "name_en": "pocket",
+            "name_chs": "口袋",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 21,
+            "name_en": "robot",
+            "name_chs": "机器人",
+            "position": "4,6",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 22,
+            "name_en": "robotHeart",
+            "name_chs": "机器人心脏",
+            "position": "5,6",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 23,
+            "name_en": "nick",
+            "name_chs": "称号",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 24,
+            "name_en": "powerSource",
+            "name_chs": "图腾",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 25,
+            "name_en": "dragonHat",
+            "name_chs": "龙神装备_帽子",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 26,
+            "name_en": "dragonPendant",
+            "name_chs": "龙神装备_吊坠",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 27,
+            "name_en": "dragonWing",
+            "name_chs": "龙神装备_翅膀",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 28,
+            "name_en": "dragonTail",
+            "name_chs": "龙神装备_尾巴",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 29,
+            "name_en": "mechanic_1",
+            "name_chs": "机械师装备1",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 30,
+            "name_en": "mechanic_2",
+            "name_chs": "机械师装备2",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 31,
+            "name_en": "mechanic_3",
+            "name_chs": "机械师装备3",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 32,
+            "name_en": "mechanic_4",
+            "name_chs": "机械师装备4",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 33,
+            "name_en": "arcaneForce",
+            "name_chs": "神秘徽章",
+            "cash": 0,
+            "enable": 0
+        },
+        {
+            "id": 301,
+            "name_en": "hair",
+            "name_chs": "发型",
+            "cash": 1,
+            "enable": 0
+        },
+        {
+            "id": 302,
+            "name_en": "skin",
+            "name_chs": "肤色",
+            "cash": 1,
+            "enable": 0
+        }
+    ]
+}

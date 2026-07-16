@@ -1,0 +1,694 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "hat",
+            "name_chs": "帽子",
+            "suit": 1
+        },
+        {
+            "id": 2,
+            "name_en": "eye",
+            "name_chs": "眼饰",
+            "suit": 2
+        },
+        {
+            "id": 3,
+            "name_en": "face",
+            "name_chs": "脸部",
+            "suit": 3
+        },
+        {
+            "id": 4,
+            "name_en": "longcoat",
+            "name_chs": "套服",
+            "suit": 4
+        },
+        {
+            "id": 5,
+            "name_en": "coat",
+            "name_chs": "上衣",
+            "suit": 5
+        },
+        {
+            "id": 6,
+            "name_en": "pants",
+            "name_chs": "下衣",
+            "suit": 6
+        },
+        {
+            "id": 7,
+            "name_en": "shoulder",
+            "name_chs": "肩部",
+            "suit": 7
+        },
+        {
+            "id": 8,
+            "name_en": "belt",
+            "name_chs": "腰带",
+            "suit": 8
+        },
+        {
+            "id": 9,
+            "name_en": "cape",
+            "name_chs": "披风",
+            "suit": 9
+        },
+        {
+            "id": 10,
+            "name_en": "glove",
+            "name_chs": "手套",
+            "suit": 10
+        },
+        {
+            "id": 11,
+            "name_en": "weapon",
+            "name_chs": "武器",
+            "suit": 11
+        },
+        {
+            "id": 12,
+            "name_en": "shield",
+            "name_chs": "盾牌（副手）",
+            "suit": 12
+        },
+        {
+            "id": 13,
+            "name_en": "shoes",
+            "name_chs": "鞋子",
+            "suit": 13
+        },
+        {
+            "id": 14,
+            "name_en": "ear",
+            "name_chs": "耳环",
+            "suit": 14
+        },
+        {
+            "id": 15,
+            "name_en": "pendant",
+            "name_chs": "吊坠",
+            "suit": 15
+        },
+        {
+            "id": 16,
+            "name_en": "ring",
+            "name_chs": "戒指",
+            "suit": 16
+        },
+        {
+            "id": 17,
+            "name_en": "medal",
+            "name_chs": "勋章",
+            "suit": 17
+        },
+        {
+            "id": 18,
+            "name_en": "badge",
+            "name_chs": "徽章",
+            "suit": 18
+        },
+        {
+            "id": 19,
+            "name_en": "emblem",
+            "name_chs": "纹章",
+            "suit": 19
+        },
+        {
+            "id": 20,
+            "name_en": "pocket",
+            "name_chs": "口袋",
+            "suit": 20
+        },
+        {
+            "id": 21,
+            "name_en": "robot",
+            "name_chs": "机器人",
+            "suit": 21
+        },
+        {
+            "id": 22,
+            "name_en": "robotHeart",
+            "name_chs": "机器人心脏",
+            "suit": 22
+        },
+        {
+            "id": 23,
+            "name_en": "nick",
+            "name_chs": "称号",
+            "suit": 23
+        },
+        {
+            "id": 24,
+            "name_en": "powerSource",
+            "name_chs": "图腾",
+            "suit": 24
+        },
+        {
+            "id": 25,
+            "name_en": "dragonHat",
+            "name_chs": "龙神装备_帽子",
+            "suit": 25
+        },
+        {
+            "id": 26,
+            "name_en": "dragonPendant",
+            "name_chs": "龙神装备_吊坠",
+            "suit": 26
+        },
+        {
+            "id": 27,
+            "name_en": "dragonWing",
+            "name_chs": "龙神装备_翅膀",
+            "suit": 27
+        },
+        {
+            "id": 28,
+            "name_en": "dragonTail",
+            "name_chs": "龙神装备_尾巴",
+            "suit": 28
+        },
+        {
+            "id": 29,
+            "name_en": "mechanic_1",
+            "name_chs": "机械师装备1",
+            "suit": 29
+        },
+        {
+            "id": 30,
+            "name_en": "mechanic_2",
+            "name_chs": "机械师装备2",
+            "suit": 30
+        },
+        {
+            "id": 31,
+            "name_en": "mechanic_3",
+            "name_chs": "机械师装备3",
+            "suit": 31
+        },
+        {
+            "id": 32,
+            "name_en": "mechanic_4",
+            "name_chs": "机械师装备4",
+            "suit": 32
+        },
+        {
+            "id": 33,
+            "name_en": "arcaneForce",
+            "name_chs": "神秘徽章",
+            "suit": 33
+        },
+        {
+            "id": 101,
+            "name_chs": "矛",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 102,
+            "name_chs": "双手剑",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 103,
+            "name_chs": "拳套",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 104,
+            "name_chs": "弓箭",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 105,
+            "name_chs": "弩",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 106,
+            "name_chs": "枪",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 107,
+            "name_chs": "长枪",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 108,
+            "name_chs": "拳甲",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 109,
+            "name_chs": "双手钝器",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 110,
+            "name_chs": "双手斧",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 111,
+            "name_chs": "双弩枪",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 112,
+            "name_chs": "手炮",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 113,
+            "name_chs": "武士刀",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 114,
+            "name_chs": "机甲手枪",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 115,
+            "name_chs": "拳封",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 116,
+            "name_chs": "远古弓",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 117,
+            "name_chs": "环刃",
+            "weight": 2,
+            "suit": 11
+        },
+        {
+            "id": 118,
+            "name_chs": "单手剑",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 119,
+            "name_chs": "短剑",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 120,
+            "name_chs": "单手钝器",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 121,
+            "name_chs": "长杖",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 122,
+            "name_chs": "杖",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 123,
+            "name_chs": "单手斧",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 124,
+            "name_chs": "手杖",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 125,
+            "name_chs": "能量剑",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 126,
+            "name_chs": "双头杖",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 127,
+            "name_chs": "记忆长杖",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 128,
+            "name_chs": "灵魂手铳",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 129,
+            "name_chs": "亡命剑",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 130,
+            "name_chs": "阴阳扇",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 131,
+            "name_chs": "ESP限制器",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 132,
+            "name_chs": "魔力手套",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 133,
+            "name_chs": "锁链",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 134,
+            "name_chs": "调谐器",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 135,
+            "name_chs": "呼吸手铳",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 136,
+            "name_chs": "扇子",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 137,
+            "name_chs": "长剑",
+            "weight": 1,
+            "suit": 11
+        },
+        {
+            "id": 151,
+            "name_chs": "盾牌",
+            "weight": 1,
+            "suit": 12
+        },
+        {
+            "id": 161,
+            "name_chs": "刀",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 162,
+            "name_chs": "魔道书",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 163,
+            "name_chs": "军团盾",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 164,
+            "name_chs": "卡片",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 165,
+            "name_chs": "小太刀",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 166,
+            "name_chs": "魔法箭矢",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 167,
+            "name_chs": "灵魂盾牌",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 168,
+            "name_chs": "麦林弹",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 169,
+            "name_chs": "叶片",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 170,
+            "name_chs": "宝珠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 171,
+            "name_chs": "护理宝珠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 172,
+            "name_chs": "控制器",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 173,
+            "name_chs": "武器传送装置",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 174,
+            "name_chs": "火药桶",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 175,
+            "name_chs": "灵魂戒指",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 176,
+            "name_chs": "诺巴精髓",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 177,
+            "name_chs": "如意宝珠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 178,
+            "name_chs": "扇坠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 179,
+            "name_chs": "手链",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 180,
+            "name_chs": "棋子",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 181,
+            "name_chs": "武器腰带",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 182,
+            "name_chs": "灵符",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 183,
+            "name_chs": "索魂器",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 184,
+            "name_chs": "装药",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 185,
+            "name_chs": "饰品",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 186,
+            "name_chs": "吊坠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 187,
+            "name_chs": "弓箭护指",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 188,
+            "name_chs": "念珠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 189,
+            "name_chs": "手腕护带",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 190,
+            "name_chs": "护符",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 191,
+            "name_chs": "瞄准器",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 192,
+            "name_chs": "短剑剑鞘",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 193,
+            "name_chs": "箭矢",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 194,
+            "name_chs": "箭羽",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 195,
+            "name_chs": "精气珠",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 196,
+            "name_chs": "遗物",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 197,
+            "name_chs": "魔力翅膀",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 198,
+            "name_chs": "魔法珠子",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 199,
+            "name_chs": "宝石",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 200,
+            "name_chs": "拳天",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 201,
+            "name_chs": "文件",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 202,
+            "name_chs": "配重物",
+            "weight": 0,
+            "suit": 12
+        },
+        {
+            "id": 301,
+            "name_en": "hair",
+            "name_chs": "发型",
+            "suit": 301
+        },
+        {
+            "id": 302,
+            "name_en": "skin",
+            "name_chs": "肤色",
+            "suit": 302
+        }
+    ]
+}

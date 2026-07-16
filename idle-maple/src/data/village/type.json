@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_chs": "奇观",
+            "class": 9,
+            "verb": "祈祷"
+        },
+        {
+            "id": 11,
+            "name_chs": "伐木",
+            "class": 1,
+            "verb": "采集"
+        },
+        {
+            "id": 12,
+            "name_chs": "钓鱼",
+            "class": 1,
+            "verb": "钓鱼"
+        },
+        {
+            "id": 13,
+            "name_chs": "捕捉",
+            "class": 1,
+            "verb": "捕捉"
+        },
+        {
+            "id": 21,
+            "name_chs": "烹饪",
+            "class": 2,
+            "verb": "烹饪"
+        },
+        {
+            "id": 22,
+            "name_chs": "锻造",
+            "class": 2,
+            "verb": "锻造"
+        },
+        {
+            "id": 23,
+            "name_chs": "制药",
+            "class": 2,
+            "verb": "制造"
+        },
+        {
+            "id": 24,
+            "name_chs": "分解",
+            "class": 2,
+            "verb": "分解"
+        },
+        {
+            "id": 31,
+            "name_chs": "旅游",
+            "class": 3,
+            "verb": "出发"
+        },
+        {
+            "id": 32,
+            "name_chs": "征讨",
+            "class": 3,
+            "verb": "征讨"
+        },
+        {
+            "id": 41,
+            "name_chs": "种植",
+            "class": 4,
+            "verb": "终止"
+        }
+    ]
+}

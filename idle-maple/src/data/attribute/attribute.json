@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "str",
+            "name_chs": "力量"
+        },
+        {
+            "id": 2,
+            "name_en": "dex",
+            "name_chs": "敏捷"
+        },
+        {
+            "id": 3,
+            "name_en": "luk",
+            "name_chs": "运气"
+        },
+        {
+            "id": 4,
+            "name_en": "int",
+            "name_chs": "智力"
+        },
+        {
+            "id": 5,
+            "name_en": "hp",
+            "name_chs": "生命值"
+        },
+        {
+            "id": 6,
+            "name_en": "mp",
+            "name_chs": "魔力值"
+        },
+        {
+            "id": 7,
+            "name_en": "max_hp",
+            "name_chs": "最大生命值"
+        },
+        {
+            "id": 8,
+            "name_en": "max_mp",
+            "name_chs": "最大魔力值"
+        },
+        {
+            "id": 10,
+            "name_en": "atk_physics",
+            "name_chs": "物理攻击力"
+        },
+        {
+            "id": 11,
+            "name_en": "atk_magic",
+            "name_chs": "魔法攻击力"
+        },
+        {
+            "id": 12,
+            "name_en": "def_physics",
+            "name_chs": "物理防御力"
+        },
+        {
+            "id": 13,
+            "name_en": "def_magic",
+            "name_chs": "魔法防御力"
+        },
+        {
+            "id": 14,
+            "name_en": "reduce_physics",
+            "name_chs": "物理减伤"
+        },
+        {
+            "id": 15,
+            "name_en": "reduce_magic",
+            "name_chs": "魔法减伤"
+        },
+        {
+            "id": 20,
+            "name_en": "crit",
+            "name_chs": "暴击"
+        },
+        {
+            "id": 21,
+            "name_en": "crit_dmg",
+            "name_chs": "暴击伤害"
+        },
+        {
+            "id": 30,
+            "name_en": "ignore_def",
+            "name_chs": "无视防御"
+        },
+        {
+            "id": 60,
+            "name_en": "speed",
+            "name_chs": "攻击速度"
+        },
+        {
+            "id": 101,
+            "name_en": "apply_str",
+            "name_chs": "面板力量"
+        },
+        {
+            "id": 102,
+            "name_en": "apply_dex",
+            "name_chs": "面板敏捷"
+        },
+        {
+            "id": 103,
+            "name_en": "apply_luk",
+            "name_chs": "面板运气"
+        },
+        {
+            "id": 104,
+            "name_en": "apply_int",
+            "name_chs": "面板智力"
+        },
+        {
+            "id": 107,
+            "name_en": "apply_max_hp",
+            "name_chs": "面板最大生命值"
+        },
+        {
+            "id": 108,
+            "name_en": "apply_max_mp",
+            "name_chs": "面板最大魔力值"
+        },
+        {
+            "id": 110,
+            "name_en": "apply_physics_atk",
+            "name_chs": "面板物理攻击力"
+        },
+        {
+            "id": 111,
+            "name_en": "apply_magic_atk",
+            "name_chs": "面板魔法攻击力"
+        },
+        {
+            "id": 112,
+            "name_en": "apply_def_physics",
+            "name_chs": "面板物理防御力"
+        },
+        {
+            "id": 113,
+            "name_en": "apply_def_magic",
+            "name_chs": "面板魔法防御力"
+        },
+        {
+            "id": 120,
+            "name_en": "apply_crit",
+            "name_chs": "面板暴击"
+        },
+        {
+            "id": 121,
+            "name_en": "apply_crit_dmg",
+            "name_chs": "面板暴击伤害"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name_chs": "冒险家",
+            "init_ap": "hp|50,mp|50,str|4,dex|4,luk|4,int|4"
+        }
+    ]
+}

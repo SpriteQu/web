@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": 10000,
+            "name_chs": "枫树山丘",
+            "from_area": 0,
+            "link_map": "20000",
+            "position": "147,197",
+            "icon_type": 1,
+            "npc": "1541000"
+        },
+        {
+            "id": 20000,
+            "name_chs": "小蜗牛",
+            "from_area": 0,
+            "link_map": "10000,1000000",
+            "position": "206,207",
+            "icon_type": 1,
+            "mobs": "100000|1.05"
+        },
+        {
+            "id": 1000000,
+            "name_chs": "彩虹村",
+            "from_area": 0,
+            "link_map": "20000,1010000",
+            "position": "231,300",
+            "icon_type": "0"
+        },
+        {
+            "id": 1010000,
+            "name_chs": "冒险家修炼场入口",
+            "from_area": 0,
+            "link_map": "1000000,1020000",
+            "position": "253,339",
+            "icon_type": 1
+        },
+        {
+            "id": 1020000,
+            "name_chs": "选择之岔路",
+            "from_area": 0,
+            "link_map": "1010000,2000000",
+            "position": "276,373",
+            "icon_type": 1
+        },
+        {
+            "id": 2000000,
+            "name_chs": "南港",
+            "from_area": 0,
+            "link_map": "1020000,2000100",
+            "position": "308,395",
+            "icon_type": "0"
+        },
+        {
+            "id": 2000100,
+            "name_chs": "码头",
+            "from_area": 0,
+            "link_map": "2000000",
+            "position": "317,445",
+            "icon_type": 1
+        },
+        {
+            "id": 100000000,
+            "name_chs": "射手村",
+            "from_area": "10",
+            "position": "318,265",
+            "icon_type": "0"
+        },
+        {
+            "id": 101000000,
+            "name_chs": "魔法密林",
+            "from_area": "10",
+            "position": "243,407",
+            "icon_type": "0"
+        },
+        {
+            "id": 102000000,
+            "name_chs": "勇士部落",
+            "from_area": "10",
+            "position": "145,302",
+            "icon_type": "0"
+        },
+        {
+            "id": 103000000,
+            "name_chs": "废弃都市",
+            "from_area": "10",
+            "position": "181,197",
+            "icon_type": "0"
+        },
+        {
+            "id": 104000000,
+            "name_chs": "明珠港",
+            "from_area": "10",
+            "position": "280,96",
+            "icon_type": "0"
+        },
+        {
+            "id": 104020000,
+            "name_chs": "六岔路口",
+            "from_area": "10",
+            "position": "232, 286",
+            "icon_type": "2"
+        }
+    ]
+}

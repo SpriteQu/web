@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "id": 1002067,
+            "name_chs": "淡绿发箍",
+            "type": 1,
+            "available": 0,
+            "trade": 1
+        },
+        {
+            "id": 1312004,
+            "name_chs": "小斧",
+            "type": 123,
+            "available": 0,
+            "trade": 1
+        },
+        {
+            "id": 32001,
+            "name_chs": "木棒",
+            "type": 120,
+            "attr": "atk_physics|2",
+            "available": 0,
+            "trade": 1,
+            "description": "踏上旅途的开始"
+        },
+        {
+            "id": 32002,
+            "name_chs": "精致的木棒",
+            "type": 120,
+            "attr": "atk_physics|3",
+            "available": 0,
+            "trade": 0,
+            "description": "踏上激动人心的旅途"
+        },
+        {
+            "id": 32003,
+            "name_chs": "木盾",
+            "type": 151,
+            "attr": "def_physics|1",
+            "available": 0,
+            "trade": 1,
+            "description": "小心那些蜗牛"
+        },
+        {
+            "id": 32004,
+            "name_chs": "精致的木盾",
+            "type": 151,
+            "attr": "def_physics|2,max_hp|8",
+            "available": 0,
+            "trade": 0,
+            "description": "小心那些蘑菇"
+        },
+        {
+            "id": 32005,
+            "name_chs": "枫叶头巾",
+            "type": 1,
+            "attr": "def_physics|1,str|1,dex|1,luk|1,int|1,max_hp|2,max_mp|2",
+            "available": 0,
+            "trade": 0
+        }
+    ]
+}

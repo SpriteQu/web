@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name_chs": "新手",
+            "grow_hp": 16,
+            "grow_mp": 12,
+            "subsidy_hp": 0,
+            "subsidy_mp": 0
+        },
+        {
+            "id": 1,
+            "name_chs": "战士",
+            "grow_hp": 28,
+            "grow_mp": 12,
+            "subsidy_hp": 350,
+            "subsidy_mp": 125
+        },
+        {
+            "id": 2,
+            "name_chs": "魔法师",
+            "grow_hp": 16,
+            "grow_mp": 22,
+            "subsidy_hp": 125,
+            "subsidy_mp": 350
+        },
+        {
+            "id": 3,
+            "name_chs": "弓箭手",
+            "grow_hp": 22,
+            "grow_mp": 17,
+            "subsidy_hp": 250,
+            "subsidy_mp": 250
+        },
+        {
+            "id": 4,
+            "name_chs": "飞侠",
+            "grow_hp": 22,
+            "grow_mp": 17,
+            "subsidy_hp": 250,
+            "subsidy_mp": 250
+        },
+        {
+            "id": 5,
+            "name_chs": "海盗",
+            "grow_hp": 26,
+            "grow_mp": 20,
+            "subsidy_hp": 280,
+            "subsidy_mp": 280
+        }
+    ]
+}

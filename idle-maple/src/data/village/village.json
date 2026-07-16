@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name_en": "name_1001",
+            "name_chs": "女神像",
+            "type": 1,
+            "time": 3,
+            "description": "心怀虔诚的人，就会得到女神的回应."
+        },
+        {
+            "id": 11001,
+            "name_en": "name_11001",
+            "name_chs": "枫树",
+            "type": 11,
+            "equip": 0,
+            "product": "1002|0.81,1001|0.05",
+            "level": 1,
+            "exp": 2,
+            "time": 3,
+            "description": "村子里最常见的树，普通但又不普通，你用尽力气也只能让它掉下来几片树叶."
+        },
+        {
+            "id": 11002,
+            "name_en": "name_11002",
+            "name_chs": "橡树",
+            "type": 11,
+            "equip": 1,
+            "product": "1003|0.8,1001|0.05",
+            "level": 5,
+            "exp": 3,
+            "time": 3,
+            "description": "就连村子里的房子，都是取自于橡树，可见它的重要性."
+        },
+        {
+            "id": 22001,
+            "name_en": "name_22001",
+            "name_chs": "木棒",
+            "type": 22,
+            "expend": "1002|8,1001|1",
+            "product": "32001|1",
+            "time": 3
+        },
+        {
+            "id": 22002,
+            "name_en": "name_22002",
+            "name_chs": "木盾",
+            "type": 22,
+            "expend": "1002|10,1001|1",
+            "product": "32003|1",
+            "time": 3
+        },
+        {
+            "id": 23001,
+            "name_en": "red_potion",
+            "name_chs": "红色药水",
+            "type": 23,
+            "equip": 0,
+            "expend": "4001|2, 4002|1",
+            "product": "2000000|1",
+            "level": 1,
+            "exp": 5,
+            "time": 5,
+            "description": "用枫叶和橡木制作红色药水"
+        },
+        {
+            "id": 31001,
+            "name_en": "bambooForest",
+            "name_chs": "小竹林",
+            "type": 31,
+            "level": 1,
+            "exp": 10,
+            "time": 900,
+            "description": "小竹林"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name_chs": "新手",
+            "from_base_job": 0,
+            "from_job_group": 0,
+            "stat_factor": "str|2",
+            "phase": 0
+        },
+        {
+            "id": 100,
+            "name_chs": "战士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 1
+        },
+        {
+            "id": 110,
+            "name_chs": "剑客",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 2
+        },
+        {
+            "id": 111,
+            "name_chs": "勇士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 3
+        },
+        {
+            "id": 112,
+            "name_chs": "英雄",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 4
+        },
+        {
+            "id": 120,
+            "name_chs": "准骑士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 2
+        },
+        {
+            "id": 121,
+            "name_chs": "骑士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 3
+        },
+        {
+            "id": 122,
+            "name_chs": "圣骑士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 4
+        },
+        {
+            "id": 130,
+            "name_chs": "枪战士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 2
+        },
+        {
+            "id": 131,
+            "name_chs": "龙骑士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 3
+        },
+        {
+            "id": 132,
+            "name_chs": "黑骑士",
+            "from_base_job": 1,
+            "from_job_group": 0,
+            "stat_factor": "str|4,dex|1",
+            "phase": 4
+        },
+        {
+            "id": 200,
+            "name_chs": "魔法师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 1
+        },
+        {
+            "id": 210,
+            "name_chs": "火毒法师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 2
+        },
+        {
+            "id": 211,
+            "name_chs": "火毒巫师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 3
+        },
+        {
+            "id": 212,
+            "name_chs": "火毒魔导师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 4
+        },
+        {
+            "id": 220,
+            "name_chs": "冰雷法师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 2
+        },
+        {
+            "id": 221,
+            "name_chs": "冰雷巫师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 3
+        },
+        {
+            "id": 222,
+            "name_chs": "冰雷魔导师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 4
+        },
+        {
+            "id": 230,
+            "name_chs": "牧师",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 2
+        },
+        {
+            "id": 231,
+            "name_chs": "祭司",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 3
+        },
+        {
+            "id": 232,
+            "name_chs": "主教",
+            "from_base_job": 2,
+            "from_job_group": 0,
+            "stat_factor": "int|4,luk|1",
+            "phase": 4
+        },
+        {
+            "id": 300,
+            "name_chs": "弓箭手",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 1
+        },
+        {
+            "id": 310,
+            "name_chs": "猎人",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 2
+        },
+        {
+            "id": 311,
+            "name_chs": "射手",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 3
+        },
+        {
+            "id": 312,
+            "name_chs": "神射手",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 4
+        },
+        {
+            "id": 320,
+            "name_chs": "弩弓手",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 2
+        },
+        {
+            "id": 321,
+            "name_chs": "游侠",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 3
+        },
+        {
+            "id": 322,
+            "name_chs": "箭神",
+            "from_base_job": 3,
+            "from_job_group": 0,
+            "stat_factor": "dex|4,str|1",
+            "phase": 4
+        },
+        {
+            "id": 400,
+            "name_chs": "飞侠",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 1
+        },
+        {
+            "id": 410,
+            "name_chs": "刺客",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 2
+        },
+        {
+            "id": 411,
+            "name_chs": "无影人",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 3
+        },
+        {
+            "id": 412,
+            "name_chs": "隐士",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 4
+        },
+        {
+            "id": 420,
+            "name_chs": "侠客",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 2
+        },
+        {
+            "id": 421,
+            "name_chs": "独行客",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1",
+            "phase": 3
+        },
+        {
+            "id": 422,
+            "name_chs": "侠盗",
+            "from_base_job": 4,
+            "from_job_group": 0,
+            "stat_factor": "luk|4,dex|1,str|1",
+            "phase": 4
+        }
+    ]
+}

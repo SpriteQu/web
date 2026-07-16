@@ -1,0 +1,16 @@
+/* 全局样式 - 禁止文字选中 */
+* {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+/* 如果某些元素需要允许选中（如输入框），可以单独覆盖 */
+input,
+textarea {
+    user-select: text;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+}

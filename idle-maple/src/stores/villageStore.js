@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import config from '@/config'
 
 export const useVillageStore = defineStore('village', () => {
     // 现在从 type.json 读取全部类型 id 和 name_chs
@@ -72,7 +73,7 @@ export const useVillageStore = defineStore('village', () => {
     }
 
     const getVillageIcon = (villageId) => {
-        return `/src/assets/village/${villageId}.png`
+        return config.getVillageIconPath(villageId)
     }
 
     return {

@@ -53,8 +53,9 @@ import config from '@/config'
 import { useRouter } from 'vue-router'
 
 const router = useRouter()
+import bgImage from '@/assets/bg001.jpg'
 const getBgImage = () => {
-  return `/src/assets/bg001.jpg`
+  return bgImage
 }
 
 // 响应式数据

@@ -135,8 +135,10 @@ export const useWebSocketStore = defineStore("websocket", {
             case "create_action":
               if (data.action_type == "battle") {
                 battleActionStore.recvBattleAction(data.id)
+              } else if (data.action_type == "move") {
+                actionStore.recvMoveAction(data.id, data.obj_id)
               } else {
-                actionStore.recvAction(data.id, data.obj_id, data.times)
+                actionStore.recvVillageAction(data.id, data.obj_id, data.times)
               }
               break
             case "start_battle":

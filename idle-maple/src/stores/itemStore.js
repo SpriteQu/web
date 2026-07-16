@@ -178,16 +178,17 @@ export const useItemStore = defineStore('item', () => {
   const getItemIcon = (itemId) => {
     const item = itemData.value[itemId] ?? equipmentData.value?.[itemId]
     if (!item) return config.staticAssets.defaultIcon
-    const base = itemData.value[itemId]
-      ? config.staticAssets.itemIconBase
-      : config.staticAssets.equipmentIconBase
-    return `${base}/${item.icon}.png`
+    if (itemData.value[itemId]) {
+      return config.getItemIconPath(item.icon)
+    } else {
+      return config.getEquipmentIconPath(item.icon)
+    }
   }
 
   // 保留装备获取icon方法，确实是装备的可以直接访问该方法
   const getEquipmentIcon = (equipmentId) => {
     const equipment = equipmentData.value[equipmentId]
-    return equipment ? `${config.staticAssets.equipmentIconBase}/${equipment.icon}.png` : config.staticAssets.defaultIcon
+    return config.getEquipmentIconPath(equipment.icon)
   }
 
   const getEquipmentSlot = (equipmentId) => {

@@ -7,7 +7,7 @@
     <span class="current-role" v-if="userStore.currentRole.rid >= 0">
           <div class="action-blocks">
             <div class="action-block" v-for="action in actionStore.action" :key="action.id">
-              <div :class="['action-bar-row', { 'action-row-hidden': action.type === 'battle' }]">
+              <div :class="['action-bar-row', { 'action-row-hidden': ['battle', 'move'].includes(action.type) }]">
                 <span class="action-bar-label">次数</span>
                 <div class="action-bar">
                   <div 

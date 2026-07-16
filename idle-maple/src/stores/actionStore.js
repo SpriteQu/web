@@ -15,7 +15,7 @@ export const useActionStore = defineStore('action', () => {
   // 获取动词，用于home页顶部卡片显示
   function getActionVerb(actionId) {
     const type = action.value[actionId].type
-    if (type == 'battle') {
+    if (type == 'battle' || type == 'move') {
       return action.value[actionId].typeChs
     } else {
       return villageStore.villageTypeData[type].verb
@@ -27,6 +27,15 @@ export const useActionStore = defineStore('action', () => {
     SELF: 1,
     OWNER: 2,
   };
+
+  function addMoveAction(actionId, mapId) {
+    action.value[actionId] = {
+      id: actionId,
+      type: 'move',
+      typeChs: '移动',
+      mapId: mapId,
+    }
+  }
 
   function addVillageAction(actionId, objId, times, completed = 0) {
     const typeId = villageStore.villageData[objId].type_id
@@ -72,7 +81,11 @@ export const useActionStore = defineStore('action', () => {
     wsStore.sendWebSocketMessage({ type: 'move', data: { id: objId } })
   }
 
-  function recvAction(actionId, objId, times) {
+  function recvMoveAction(actionId, objId) {
+    addMoveAction(actionId, objId)
+  }
+
+  function recvVillageAction(actionId, objId, times) {
     addVillageAction(actionId, objId, times, 0)
   }
 
@@ -106,7 +119,8 @@ export const useActionStore = defineStore('action', () => {
     clearAllAction,
     sendVillageAction,
     sendMoveAction,
-    recvAction,
+    recvMoveAction,
+    recvVillageAction,
     updateActionProgress,
     recvEndAction
   }

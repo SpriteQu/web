@@ -1,5 +1,6 @@
 import { defineStore } from "pinia"
 import { ref } from "vue"
+import config from '@/config'
 
 export const useMapStore = defineStore("map", () => {
     const mapWorldData = ref({})
@@ -104,11 +105,11 @@ export const useMapStore = defineStore("map", () => {
 
     const getMapImage = (mapId) => {        // 其实是查询map所在area的地图
         const areaId = getAreaFromMapId(mapId).id
-        return `/src/assets/map/area/${areaId}.png`
+        return config.getMapImagePath(areaId)
     }
 
     const getMapPointImage = (pointId) => {
-        return `/src/assets/map/module/${pointId}.png`
+        return config.getMapPointImagePath(pointId)
     }
 
     // 可移动性判定

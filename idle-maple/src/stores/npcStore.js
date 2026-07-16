@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import config from '@/config'
 import { useUserStore } from '@/stores/userStore'
 import { useQuestStore } from '@/stores/questStore'
 
@@ -108,7 +109,7 @@ export const useNpcStore = defineStore('npc', () => {
 
     // 获取NPC图标路径
     const getNpcIcon = (npcId) => {
-        return `/src/assets/npc/${npcId}.png`
+        return config.getNpcIconPath(npcId)
     }
 
     // 返回指定 NPC 的文本数组 [{ id, title, detail, link_quest?, visible, invisible }]

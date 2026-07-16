@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import config from '@/config'
 
 export const useJobStore = defineStore('job', () => {
     const baseJobData = ref({})
@@ -108,7 +109,7 @@ export const useJobStore = defineStore('job', () => {
 
     // 获取职业图标路径（后期实装纸娃娃系统会放到avaterStore）
     function getJobIcon(jobId) {
-        return `/src/assets/avatar/job/${jobId}.png`
+        return config.getJobIconPath(jobId)
     }
 
     function getJobName(jobId) {

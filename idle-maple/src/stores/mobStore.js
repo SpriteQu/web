@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import config from '@/config'
 
 export const useMobStore = defineStore('mob', () => {
     const mobData = ref({})
@@ -40,7 +41,7 @@ export const useMobStore = defineStore('mob', () => {
 
     // 获取职业图标路径（后期实装纸娃娃系统会放到avaterStore）
     function getMobIcon(mobId) {
-        return `/src/assets/mob/${mobId}.png`
+        return config.getMobIconPath(mobId)
     }
 
     function getMobName(mobId) {

@@ -28,9 +28,9 @@ const url = isDev ? {
   staticUrl: 'http://127.0.0.1:6282',
   wsUrl: 'ws://127.0.0.1:6283'
 } : {
-  apiUrl: 'http://a.com:6281',
-  staticUrl: 'http://a.com:6282',
-  wsUrl: 'ws://a.com:6283'
+  apiUrl: 'http://127.0.0.1:6281',
+  staticUrl: 'http://127.0.0.1:6282',
+  wsUrl: 'ws://127.0.0.1:6283'
 };
 
 // 合并配置
